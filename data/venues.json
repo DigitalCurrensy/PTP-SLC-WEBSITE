@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "updated": "2026-09-15",
+  "timezone": "America/Denver",
+  "venues": [
+    {
+      "id": "gem-ec",
+      "name": "GEM Event Center / GEM Nightclub",
+      "address": "122 W Pierpont Ave",
+      "address_alt": "134 W Pierpont Ave (appears on some Square pages)",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "capacity_note": null,
+      "rooms": ["GEM Nightclub", "Aura Lounge"],
+      "source": "https://www.ptpevents.com/"
+    },
+    {
+      "id": "sierra-event-center",
+      "name": "Sierra Event Center",
+      "address": null,
+      "city": "Salt Lake City",
+      "state": "UT",
+      "capacity_note": "2,000-capacity takeovers (PTP site copy)",
+      "rooms": [],
+      "source": "https://www.ptpevents.com/"
+    },
+    {
+      "id": "aura-lounge",
+      "name": "Aura Lounge",
+      "address": "122 W Pierpont Ave",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "capacity_note": null,
+      "rooms": [],
+      "notes": "21+ nights on the same Pierpont block as GEM E.C.",
+      "source": "https://www.ptpevents.com/"
+    }
+  ]
+}

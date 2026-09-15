@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "updated": "2026-09-15",
+  "source": "https://www.ptpevents.com/",
+  "lineup_board": "https://linktr.ee/ptpslc",
+  "square_merchant": "MLN44S3JSC529",
+  "events": [
+    {
+      "id": "cutdwn-2026-09-18",
+      "title": "CUTDWN · Live in SLC",
+      "artist": "CUTDWN",
+      "date_start": "2026-09-18",
+      "doors": "22:00",
+      "venue_id": "gem-ec",
+      "age_policy": "18_plus_21_bar",
+      "genre": "hard-techno",
+      "ticket_url": "https://linktr.ee/ptpslc",
+      "ticket_provider": "linktree",
+      "flyer_url": "https://www.ptpevents.com/assets/flyers/cutdwn.jpg",
+      "status": "onsale",
+      "notes": "PTP presents CUTDWN live in Salt Lake City at GEM E.C."
+    },
+    {
+      "id": "jenny-69-2026-09-19",
+      "title": "Jenny 69 · Buchona Tour",
+      "artist": "Jenny 69",
+      "date_start": "2026-09-19",
+      "doors": "22:00",
+      "venue_id": "gem-ec",
+      "age_policy": "18_plus_21_bar",
+      "genre": "latin-reggaeton",
+      "ticket_url": "https://checkout.square.site/merchant/MLN44S3JSC529/checkout/VBQNGWIM4T4MYZVQHM3632AK",
+      "ticket_provider": "square",
+      "flyer_url": "https://www.ptpevents.com/assets/flyers/jenny-69.jpg",
+      "status": "onsale",
+      "notes": "One night only at GEM E.C., 122 W Pierpont Ave."
+    },
+    {
+      "id": "dariel-amant-2026-09-25",
+      "title": "Dariel Amant · El Amante",
+      "artist": "Dariel Amant",
+      "date_start": "2026-09-25",
+      "doors": "22:00",
+      "venue_id": "aura-lounge",
+      "age_policy": "21_plus",
+      "genre": "latin-rnb",
+      "ticket_url": "https://checkout.square.site/merchant/MLN44S3JSC529/checkout/EQFUJLWOP4JNU5R635OQB5EQ",
+      "ticket_provider": "square",
+      "flyer_url": "https://www.ptpevents.com/assets/flyers/dariel-amant.jpg",
+      "status": "onsale",
+      "notes": "21+ only at Aura Lounge, 122 W Pierpont Ave."
+    },
+    {
+      "id": "oblivion-2026-10-23",
+      "title": "OBLIVION · Live in SLC",
+      "artist": "OBLIVION",
+      "date_start": "2026-10-23",
+      "doors": "22:00",
+      "venue_id": "gem-ec",
+      "age_policy": "18_plus_21_bar",
+      "genre": "kick-irl",
+      "ticket_url": "https://checkout.square.site/merchant/MLN44S3JSC529/checkout/L4LE4OKOW7YWPVV7K6RRVBMH",
+      "ticket_provider": "square",
+      "flyer_url": "https://www.ptpevents.com/assets/flyers/oblivion.jpg",
+      "status": "onsale",
+      "notes": "Kick IRL. Site copy: 330K+ followers, 21K live-viewer peak."
+    }
+  ],
+  "recent_recaps": [
+    {
+      "id": "oc-chris-2026-09-04",
+      "title": "OC Chris · Live in SLC",
+      "date_start": "2026-09-04",
+      "status": "past",
+      "venue_id": "gem-ec",
+      "photo_url": "https://www.ptpevents.com/assets/photos/oc-chris/01.jpg"
+    }
+  ]
+}
