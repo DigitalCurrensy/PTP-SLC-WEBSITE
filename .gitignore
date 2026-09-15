@@ -1,7 +1,12 @@
 .env
 .env.*
 !.env.example
+.env.local
 *.pem
 *.key
+*.p12
+credentials.json
+*service-account*.json
+.vercel/
 .DS_Store
 node_modules/
